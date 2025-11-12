@@ -97,5 +97,19 @@ The Smart Aquarium project successfully automates the maintenance and monitoring
 ---
 
 ## 12. References
-- [ThingSpeak](https://thingspeak.com/)
-- [WordPress](https://wordpress.com/)
+
+- ElectronicWings. *An IoT Aquarium Project using NodeMCU ESP8266 and Sensors.*  
+  Available at: [https://www.electronicwings.com/users/EvanRobinson/projects/1244/an-iot-aquarium](https://www.electronicwings.com/users/EvanRobinson/projects/1244/an-iot-aquarium)
+
+- Random Nerd Tutorials. *ESP8266 NodeMCU with TDS (Water Quality) Sensor – Measure Aquarium Water Quality.*  
+  Available at: [https://randomnerdtutorials.com/esp8266-nodemcu-tds-water-quality-sensor/](https://randomnerdtutorials.com/esp8266-nodemcu-tds-water-quality-sensor/)
+
+- ResearchGate. *Automatic Aquarium Water Change System With Real Time Monitoring Through IoT (2023).*  
+  Available at: [https://www.researchgate.net/publication/369475613_Automatic_Aquarium_Water_Change_System_With_Real_Time_Monitoring_Through_IoT](https://www.researchgate.net/publication/369475613_Automatic_Aquarium_Water_Change_System_With_Real_Time_Monitoring_Through_IoT)
+
+- ThingSpeak. *IoT Aquarium Monitoring Channels and Tutorials.*  
+  Available at: [https://thingspeak.mathworks.com/channels/932322](https://thingspeak.mathworks.com/channels/932322)
+
+- Instructables. *IoT Based Water Level Controller Using NodeMCU ESP8266.*  
+  Available at: [https://www.instructables.com/IOT-Based-Water-Level-Controller-Using-NodeMCU-ESP/](https://www.instructables.com/IOT-Based-Water-Level-Controller-Using-NodeMCU-ESP/)
+
